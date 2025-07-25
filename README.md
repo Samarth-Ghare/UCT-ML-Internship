@@ -60,7 +60,7 @@ We merged multiple datasets covering:
 
 ## 🙋‍♂️ Author
 
-**Name**: [Your Name]  
+**Name**: Samarth Suresh Ghare  
 **Internship**: Machine Learning Internship @ UCT  
 **Duration**: 6 weeks  
 **Project**: 4 (Agriculture Domain)
