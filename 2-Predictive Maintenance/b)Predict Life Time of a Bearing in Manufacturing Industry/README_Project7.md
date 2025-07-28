@@ -13,6 +13,7 @@ Build a machine learning model to predict the remaining life of bearings using v
 - Each file: 20,480 points, sampled at 20 kHz
 - Channels: 4–8 depending on test set
 - Format: ASCII
+- https://drive.google.com/file/d/12rV9AhpqbMivYCu4WVM7DhXpO1aO98k_/view?usp=sharing 
 
 ## 🛠️ Approach
 - Preprocessing: File reading, parsing timestamps, and label generation
